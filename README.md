@@ -1,1 +1,1 @@
-# googlebooks-react
+# google-books
